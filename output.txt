@@ -1,0 +1,1001 @@
+ID,Name,Condition,State,Price
+1,good1,C1,S1,0.01
+1,good1,C1,S1,0.02
+1,good1,C1,S1,0.03
+1,good1,C1,S1,0.04
+1,good1,C1,S1,0.05
+1,good1,C1,S1,0.06
+1,good1,C1,S1,0.07
+1,good1,C1,S1,0.08
+1,good1,C1,S1,0.09
+1,good1,C1,S1,0.1
+1,good1,C1,S1,0.11
+1,good1,C1,S1,0.12
+1,good1,C1,S1,0.13
+1,good1,C1,S1,0.14
+1,good1,C1,S1,0.15
+1,good1,C1,S1,0.16
+1,good1,C1,S1,0.17
+1,good1,C1,S1,0.18
+1,good1,C1,S1,0.19
+1,good1,C1,S1,0.2
+6,good6,C6,S6,1.5
+3,good3,C2,S2,3.8
+3,good3,C3,S3,5.0
+7,good7,C7,S7,5.5
+13,good13,C13,S13,8.12
+2,good2,C2,S2,8.5
+9,good9,C8,S9,9.1
+2,good2,C1,S2,9.3
+8,good8,C8,S8,9.8
+2109,Fable,C23,S86,10.0
+872752105,Science fiction,C24,S49,10.01
+72169,Fantasy,C98,S50,10.02
+9,Fairy tale,C51,S00,10.03
+6727,Fantasy,C72,S84,10.04
+70,Folklore,C24,S67,10.05
+3705,Science fiction,C82,S41,10.06
+41043130,Suspense/Thriller,C38,S60,10.07
+270726,Narrative nonfiction,C27,S16,10.08
+81840266,Humor,C66,S00,10.09
+772053,Fantasy,C88,S05,10.1
+74196362,Fiction narrative,C33,S82,10.11
+776,Fairy tale,C21,S70,10.12
+0,Fantasy,C12,S21,10.13
+339196711,Humor,C71,S12,10.14
+6,Fiction narrative,C87,S75,10.15
+664233,Essay,C86,S45,10.16
+269,Comic/Graphic Novel,C58,S30,10.17
+256,Legend,C66,S14,10.18
+479715788,Fiction narrative,C76,S17,10.19
+323783637,Speech,C50,S76,10.2
+52804896,Tall tale,C42,S40,10.21
+501991,Folklore,C44,S42,10.22
+16,Essay,C01,S85,10.23
+84318,Fairy tale,C66,S03,10.24
+4135288,Western,C54,S40,10.25
+270407,Historical fiction,C62,S52,10.26
+796,Science fiction,C14,S81,10.27
+957,Tall tale,C54,S34,10.28
+27422,Metafiction,C61,S20,10.29
+9901,Suspense/Thriller,C51,S36,10.3
+58184,Short story,C47,S52,10.31
+990606175,Science fiction,C96,S84,10.32
+57514,Textbook,C22,S04,10.33
+471184009,Biography/Autobiography,C78,S87,10.34
+2639,Crime/Detective,C77,S01,10.35
+58811,Fanfiction,C84,S59,10.36
+32932309,Fiction in verse,C03,S52,10.37
+221234,Metafiction,C53,S88,10.38
+63281144,Reference book,C29,S76,10.39
+9316,Textbook,C24,S86,10.4
+34012,Crime/Detective,C94,S24,10.41
+348030,Realistic fiction,C80,S13,10.42
+296,Fiction in verse,C52,S43,10.43
+11272011,Reference book,C13,S02,10.44
+62061037,Science fiction,C21,S95,10.45
+645787,Western,C25,S85,10.46
+80048,Textbook,C35,S07,10.47
+566603,Reference book,C28,S96,10.48
+3,Narrative nonfiction,C03,S38,10.49
+63,Metafiction,C02,S71,10.5
+2,Essay,C83,S04,10.51
+2,Fanfiction,C18,S81,10.52
+84,Realistic fiction,C24,S30,10.53
+34,Fanfiction,C14,S38,10.54
+5657831,Horror,C01,S33,10.55
+395630807,Folklore,C11,S23,10.56
+2971,Short story,C76,S12,10.57
+54416044,Crime/Detective,C57,S25,10.58
+2,Fiction in verse,C47,S67,10.59
+38156,Realistic fiction,C90,S46,10.6
+70,Fiction in verse,C22,S55,10.61
+29016,Short story,C22,S05,10.62
+5454,Historical fiction,C72,S73,10.63
+254,Mythopoeia,C23,S81,10.64
+14778,Crime/Detective,C12,S88,10.65
+7235726,Legend,C50,S05,10.66
+466,Science fiction,C13,S79,10.67
+95,Fiction narrative,C77,S57,10.68
+31786,Comic/Graphic Novel,C32,S32,10.69
+31089011,Classic,C15,S82,10.7
+3,Western,C01,S11,10.71
+5645262,Comic/Graphic Novel,C83,S36,10.72
+3102,Western,C44,S28,10.73
+3167,Fable,C43,S12,10.74
+57562,Tall tale,C38,S16,10.75
+76,Speech,C70,S57,10.76
+73114,Fiction narrative,C00,S52,10.77
+90592,Historical fiction,C88,S00,10.78
+277270,Biography/Autobiography,C61,S40,10.79
+7,Essay,C75,S28,10.8
+8322698,Legend,C12,S84,10.81
+0,Narrative nonfiction,C21,S84,10.82
+494980237,Comic/Graphic Novel,C31,S40,10.83
+84910,Essay,C32,S52,10.84
+987010,Reference book,C78,S57,10.85
+9156371,Reference book,C35,S22,10.86
+97,Fairy tale,C80,S67,10.87
+59,Biography/Autobiography,C53,S16,10.88
+78,Narrative nonfiction,C10,S58,10.89
+1350,Fairy tale,C04,S75,10.9
+241158,Fiction in verse,C84,S11,10.92
+63,Suspense/Thriller,C48,S80,10.93
+30,Short story,C59,S98,10.94
+6997,Suspense/Thriller,C07,S12,10.96
+90249544,Folklore,C52,S23,10.97
+904,Western,C23,S76,10.98
+203712,Historical fiction,C07,S22,11.0
+2388,Reference book,C25,S55,11.01
+5,Essay,C47,S83,11.02
+12709,Classic,C94,S02,11.03
+330,Folklore,C68,S43,11.04
+265295496,Mythology,C83,S23,11.05
+35,Realistic fiction,C95,S92,11.06
+5106744,Fiction narrative,C21,S87,11.07
+23651178,Folklore,C38,S20,11.08
+735958851,Fanfiction,C18,S12,11.09
+1041344,Crime/Detective,C48,S09,11.1
+45,Western,C23,S28,11.11
+14,Horror,C78,S22,11.12
+91,Tall tale,C77,S45,11.13
+8,Classic,C62,S38,11.14
+8,Mystery,C05,S30,11.15
+54,Suspense/Thriller,C67,S78,11.16
+3943,Suspense/Thriller,C88,S05,11.17
+618,Biography/Autobiography,C84,S20,11.18
+801791443,Fanfiction,C56,S64,11.19
+4,Textbook,C42,S75,11.2
+6384705,Crime/Detective,C14,S78,11.21
+434,Folklore,C08,S07,11.22
+65,Historical fiction,C13,S04,11.23
+54,Narrative nonfiction,C46,S06,11.24
+783709468,Reference book,C45,S99,11.25
+49928013,Science fiction,C46,S95,11.26
+794932758,Historical fiction,C24,S48,11.27
+968,Biography/Autobiography,C86,S48,11.28
+583917,Fiction narrative,C15,S25,11.29
+4278,Suspense/Thriller,C79,S71,11.3
+3941,Western,C62,S34,11.31
+338679,Western,C77,S83,11.32
+451057473,Speech,C54,S27,11.33
+694014035,Legend,C53,S44,11.34
+958683,Narrative nonfiction,C88,S05,11.35
+432581,Speech,C58,S05,11.36
+78061,Mystery,C23,S68,11.37
+60671539,Fanfiction,C48,S41,11.38
+627,Historical fiction,C16,S34,11.39
+459499,Classic,C99,S00,11.4
+78,Fairy tale,C73,S00,11.41
+67963,Biography/Autobiography,C32,S85,11.42
+521945773,Mythopoeia,C32,S64,11.43
+5832,Fiction narrative,C15,S03,11.44
+437853455,Classic,C56,S13,11.45
+198186,Legend,C14,S20,11.46
+8745281,Reference book,C86,S05,11.47
+91012547,Reference book,C58,S85,11.48
+1911,Mythology,C11,S59,11.49
+931587,Classic,C42,S11,11.5
+4,Textbook,C74,S42,11.51
+11,Horror,C48,S73,11.52
+72,Horror,C04,S34,11.53
+3661,Reference book,C55,S60,11.54
+6387,Realistic fiction,C31,S08,11.55
+70,Legend,C52,S34,11.56
+94610041,Biography/Autobiography,C96,S57,11.57
+150025666,Textbook,C16,S13,11.58
+53,Legend,C20,S35,11.59
+16091161,Textbook,C08,S77,11.6
+6094390,Fable,C63,S97,11.61
+648257783,Tall tale,C66,S49,11.62
+43,Mythology,C86,S14,11.63
+6155017,Fable,C59,S75,11.64
+99,Fiction in verse,C16,S63,11.65
+72,Essay,C70,S24,11.66
+591775,Fiction narrative,C97,S23,11.67
+33,Short story,C35,S31,11.68
+7851148,Suspense/Thriller,C24,S18,11.69
+389630000,Essay,C23,S96,11.71
+2934404,Short story,C36,S55,11.72
+138160092,Legend,C03,S24,11.73
+0,Mythology,C11,S41,11.74
+503,Reference book,C34,S47,11.75
+23821478,Suspense/Thriller,C82,S83,11.76
+91,Comic/Graphic Novel,C70,S60,11.77
+12,Metafiction,C60,S03,11.78
+60901335,Historical fiction,C41,S69,11.79
+34043320,Mythopoeia,C75,S35,11.8
+707,Speech,C28,S51,11.81
+6,Mythology,C58,S30,11.82
+93,Fairy tale,C26,S44,11.83
+696448,Reference book,C53,S86,11.84
+2309298,Humor,C05,S00,11.85
+962815,Fanfiction,C38,S33,11.86
+185,Realistic fiction,C25,S38,11.87
+0,Comic/Graphic Novel,C80,S02,11.88
+8372,Short story,C13,S34,11.89
+451353,Fantasy,C59,S56,11.9
+9158,Short story,C02,S78,11.91
+49667,Reference book,C71,S34,11.92
+726,Historical fiction,C07,S23,11.93
+8324295,Legend,C58,S94,11.94
+9,Fable,C54,S51,11.95
+36128793,Metafiction,C87,S48,11.96
+520568926,Speech,C28,S28,11.97
+205,Essay,C02,S35,11.98
+466,Narrative nonfiction,C79,S25,11.99
+648,Textbook,C07,S03,12.0
+735169852,Suspense/Thriller,C44,S36,12.01
+1988,Essay,C86,S47,12.02
+423,Fiction narrative,C14,S97,12.03
+954530,Fanfiction,C48,S25,12.04
+3207548,Textbook,C17,S07,12.05
+0,Reference book,C27,S62,12.06
+88162,Essay,C41,S00,12.07
+4575,Mythology,C77,S75,12.08
+1312,Historical fiction,C12,S39,12.09
+80,Western,C25,S32,12.1
+26003435,Comic/Graphic Novel,C65,S84,12.11
+273249,Fantasy,C75,S98,12.12
+84559,Textbook,C48,S48,12.13
+80913,Speech,C18,S47,12.14
+27741325,Fiction narrative,C62,S17,12.15
+18,Realistic fiction,C32,S10,12.16
+18837519,Reference book,C68,S75,12.17
+9,Fantasy,C37,S41,12.18
+373,Essay,C26,S57,12.19
+2,Fiction in verse,C04,S33,12.2
+917845,Biography/Autobiography,C57,S53,12.21
+404017,Tall tale,C41,S76,12.22
+17435530,Crime/Detective,C56,S57,12.23
+4,Fable,C53,S50,12.24
+75750264,Science fiction,C66,S83,12.25
+14834,Short story,C29,S62,12.26
+56,Tall tale,C98,S82,12.27
+10,Realistic fiction,C96,S04,12.28
+3,Fairy tale,C94,S12,12.29
+3137975,Essay,C53,S71,12.3
+9,Essay,C21,S85,12.31
+444,Narrative nonfiction,C43,S65,12.32
+9,Essay,C56,S28,12.33
+17808,Narrative nonfiction,C28,S79,12.34
+10521420,Science fiction,C07,S43,12.35
+54,Folklore,C61,S85,12.36
+9399541,Folklore,C44,S38,12.37
+428968112,Narrative nonfiction,C63,S84,12.38
+320759,Tall tale,C77,S74,12.39
+5555,Essay,C04,S77,12.4
+4789897,Legend,C75,S58,12.41
+255612,Fairy tale,C52,S35,12.42
+7,Legend,C35,S83,12.43
+847462059,Reference book,C84,S24,12.44
+238729482,Fairy tale,C84,S54,12.45
+67,Legend,C41,S51,12.46
+424,Short story,C32,S20,12.47
+0,Fiction narrative,C31,S02,12.48
+517,Fiction in verse,C48,S82,12.49
+1943,Horror,C12,S01,12.5
+8,Narrative nonfiction,C85,S07,12.51
+662,Narrative nonfiction,C12,S81,12.52
+16,Mystery,C89,S90,12.53
+762799716,Fanfiction,C09,S72,12.54
+111087449,Metafiction,C50,S34,12.55
+4854405,Humor,C22,S45,12.56
+217432518,Historical fiction,C98,S11,12.57
+8382,Tall tale,C52,S45,12.58
+28649169,Realistic fiction,C01,S76,12.59
+480350348,Essay,C95,S69,12.6
+9,Fanfiction,C12,S61,12.61
+14,Fantasy,C29,S00,12.62
+8,Narrative nonfiction,C42,S22,12.63
+64611202,Classic,C17,S65,12.64
+438523731,Fairy tale,C86,S27,12.65
+3433426,Historical fiction,C09,S21,12.66
+555349,Folklore,C10,S86,12.67
+8299,Crime/Detective,C00,S33,12.68
+32988,Metafiction,C42,S42,12.69
+5,Fantasy,C25,S44,12.7
+349862518,Folklore,C45,S96,12.71
+346006,Legend,C75,S42,12.72
+45,Science fiction,C06,S62,12.73
+319068,Science fiction,C61,S51,12.74
+958,Realistic fiction,C40,S82,12.75
+382561901,Crime/Detective,C06,S67,12.76
+8,Mythology,C68,S68,12.77
+66103213,Tall tale,C07,S83,12.78
+894737,Realistic fiction,C63,S65,12.79
+9,Fiction narrative,C36,S40,12.8
+37,Mystery,C58,S20,12.81
+7,Short story,C06,S13,12.82
+21033,Biography/Autobiography,C78,S03,12.83
+225474,Historical fiction,C27,S02,12.84
+7477,Mystery,C26,S67,12.86
+1560,Essay,C04,S88,12.87
+3494,Textbook,C59,S65,12.88
+9,Fantasy,C32,S83,12.89
+46457114,Crime/Detective,C39,S01,12.9
+120,Textbook,C48,S66,12.91
+457689276,Suspense/Thriller,C32,S44,12.92
+3,Reference book,C79,S51,12.93
+3861529,Mythopoeia,C56,S78,12.94
+915789,Tall tale,C59,S00,12.95
+394,Speech,C39,S41,12.96
+54426,Metafiction,C95,S24,12.97
+330,Narrative nonfiction,C37,S50,12.98
+83859693,Biography/Autobiography,C86,S58,12.99
+44494435,Biography/Autobiography,C35,S77,13.0
+7604,Crime/Detective,C21,S51,13.01
+8,Humor,C26,S57,13.02
+53057446,Crime/Detective,C46,S06,13.03
+6,Historical fiction,C03,S93,13.04
+2515,Short story,C03,S30,13.05
+131423,Metafiction,C77,S09,13.06
+7750523,Fable,C89,S78,13.07
+92256910,Fable,C46,S74,13.08
+35517695,Fiction in verse,C12,S17,13.09
+840,Humor,C04,S71,13.1
+58580844,Fiction narrative,C75,S31,13.12
+8117,Comic/Graphic Novel,C38,S91,13.13
+20431925,Folklore,C90,S71,13.14
+38791,Mystery,C01,S27,13.16
+0,Realistic fiction,C80,S60,13.17
+4997,Historical fiction,C40,S61,13.18
+766458071,Biography/Autobiography,C33,S86,13.19
+945153,Narrative nonfiction,C87,S50,13.2
+25,Realistic fiction,C92,S04,13.21
+750267496,Fantasy,C56,S62,13.22
+415,Speech,C31,S54,13.23
+409,Fantasy,C88,S19,13.24
+499,Fiction in verse,C62,S20,13.25
+4,Fairy tale,C66,S76,13.26
+113,Biography/Autobiography,C28,S04,13.27
+7,Crime/Detective,C69,S20,13.28
+22521,Historical fiction,C15,S27,13.29
+27,Science fiction,C08,S88,13.3
+33,Narrative nonfiction,C20,S37,13.31
+2,Speech,C66,S25,13.32
+928228690,Historical fiction,C54,S39,13.34
+9390724,Realistic fiction,C80,S90,13.35
+885625,Textbook,C91,S15,13.36
+1955,Legend,C50,S81,13.37
+2,Fiction in verse,C68,S40,13.38
+455045,Comic/Graphic Novel,C57,S08,13.39
+70346,Suspense/Thriller,C34,S34,13.4
+572,Horror,C63,S31,13.41
+646127807,Essay,C40,S73,13.42
+12133,Fable,C82,S54,13.43
+72778885,Western,C36,S38,13.44
+62508918,Science fiction,C82,S02,13.45
+92,Fanfiction,C82,S83,13.46
+23208,Folklore,C66,S49,13.47
+43243742,Mythopoeia,C13,S00,13.48
+44463223,Realistic fiction,C02,S54,13.49
+9,Fanfiction,C25,S02,13.5
+97738,Classic,C50,S26,13.51
+7656,Fiction in verse,C59,S41,13.52
+23,Fantasy,C61,S45,13.53
+8,Mythology,C55,S18,13.54
+68213,Reference book,C26,S07,13.55
+80,Mystery,C87,S75,13.56
+6683237,Narrative nonfiction,C42,S51,13.57
+4,Legend,C35,S87,13.58
+93493,Narrative nonfiction,C15,S48,13.59
+63,Textbook,C34,S78,13.6
+82461392,Fable,C83,S41,13.62
+66176,Metafiction,C48,S05,13.63
+7602,Narrative nonfiction,C64,S34,13.64
+147,Legend,C18,S38,13.65
+40,Science fiction,C69,S75,13.66
+9437,Historical fiction,C75,S41,13.67
+5,Crime/Detective,C84,S43,13.68
+18,Essay,C60,S80,13.69
+920,Legend,C65,S54,13.7
+607232811,Crime/Detective,C99,S24,13.71
+30955659,Fable,C04,S50,13.72
+1154,Fanfiction,C38,S24,13.73
+1391,Classic,C38,S77,13.74
+4555,Fable,C05,S00,13.75
+268875,Mythology,C81,S05,13.76
+623829,Comic/Graphic Novel,C59,S28,13.77
+621421,Humor,C00,S41,13.78
+91324,Suspense/Thriller,C83,S26,13.79
+17367,Metafiction,C62,S85,13.8
+508587067,Essay,C53,S13,13.81
+15958169,Legend,C71,S28,13.82
+6222448,Fiction in verse,C35,S65,13.83
+5237660,Biography/Autobiography,C57,S23,13.84
+209224,Science fiction,C37,S71,13.85
+10397627,Crime/Detective,C55,S52,13.86
+2516557,Textbook,C68,S33,13.87
+970517859,Classic,C18,S06,13.88
+4,Legend,C07,S67,13.89
+155,Tall tale,C34,S45,13.9
+541,Classic,C53,S87,13.91
+997113,Short story,C73,S31,13.92
+93657238,Fiction narrative,C69,S54,13.93
+31806,Horror,C26,S34,13.94
+40,Essay,C06,S19,13.95
+1452770,Metafiction,C41,S30,13.97
+56137317,Crime/Detective,C76,S42,13.98
+650,Legend,C56,S63,13.99
+93714,Reference book,C26,S81,14.0
+40451,Horror,C30,S15,14.01
+76,Fiction narrative,C86,S21,14.02
+5,Textbook,C58,S05,14.03
+6177,Fiction narrative,C71,S10,14.04
+14,Fiction narrative,C19,S13,14.05
+18,Historical fiction,C62,S68,14.06
+72,Comic/Graphic Novel,C33,S78,14.07
+600087,Fairy tale,C87,S22,14.08
+39044257,Legend,C65,S74,14.09
+91573984,Suspense/Thriller,C91,S48,14.1
+391951,Crime/Detective,C45,S19,14.11
+97,Comic/Graphic Novel,C67,S48,14.12
+17200,Mystery,C19,S93,14.13
+9183,Speech,C83,S04,14.14
+136128576,Crime/Detective,C63,S18,14.15
+42971779,Horror,C32,S30,14.16
+5,Mythology,C88,S54,14.17
+14,Fiction in verse,C84,S03,14.18
+575,Fairy tale,C45,S88,14.19
+3482573,Fiction in verse,C73,S13,14.2
+4,Reference book,C21,S26,14.21
+57042731,Narrative nonfiction,C88,S19,14.22
+8,Textbook,C29,S25,14.23
+64827127,Reference book,C73,S30,14.24
+4,Speech,C36,S56,14.25
+57835779,Speech,C57,S84,14.26
+6,Narrative nonfiction,C44,S51,14.27
+30000,Mystery,C10,S50,14.28
+8,Classic,C14,S00,14.29
+36121957,Legend,C21,S01,14.3
+4709606,Narrative nonfiction,C63,S20,14.31
+953,Metafiction,C52,S60,14.32
+831548,Realistic fiction,C44,S98,14.33
+316,Textbook,C25,S50,14.34
+5304426,Mythopoeia,C66,S20,14.35
+8735310,Speech,C64,S46,14.36
+27730004,Narrative nonfiction,C74,S75,14.37
+32766,Historical fiction,C35,S42,14.38
+8,Fable,C09,S84,14.39
+2,Biography/Autobiography,C11,S64,14.4
+25,Biography/Autobiography,C35,S17,14.41
+78881183,Crime/Detective,C09,S80,14.42
+365,Realistic fiction,C14,S78,14.43
+3375229,Western,C94,S61,14.44
+327,Realistic fiction,C18,S61,14.45
+4870,Legend,C21,S14,14.46
+0,Horror,C88,S68,14.47
+539,Metafiction,C80,S17,14.48
+9612,Textbook,C06,S26,14.49
+4116232,Biography/Autobiography,C30,S83,14.5
+60528698,Biography/Autobiography,C45,S60,14.51
+25569,Narrative nonfiction,C80,S80,14.52
+7,Comic/Graphic Novel,C83,S13,14.53
+52,Mystery,C21,S50,14.54
+4002792,Legend,C44,S21,14.55
+3,Classic,C11,S60,14.56
+51,Crime/Detective,C68,S71,14.57
+3002,Realistic fiction,C17,S36,14.58
+80850725,Mythopoeia,C60,S76,14.59
+698973,Textbook,C21,S11,14.6
+82501,Legend,C90,S14,14.61
+40151799,Reference book,C05,S09,14.62
+88,Essay,C77,S31,14.63
+3800560,Essay,C31,S60,14.64
+457087373,Horror,C25,S96,14.65
+57555,Short story,C05,S56,14.66
+11063120,Horror,C60,S38,14.67
+68791443,Humor,C58,S30,14.68
+76381614,Essay,C56,S10,14.69
+911264,Fantasy,C43,S31,14.7
+96474,Classic,C38,S23,14.71
+6235758,Classic,C25,S55,14.72
+22,Mythology,C80,S87,14.73
+101579749,Legend,C64,S61,14.74
+3,Fable,C90,S30,14.75
+84273899,Fanfiction,C11,S49,14.76
+38561348,Mythopoeia,C34,S11,14.77
+5,Metafiction,C03,S61,14.78
+3,Fantasy,C78,S69,14.79
+1756576,Short story,C30,S92,14.8
+8,Fairy tale,C61,S75,14.81
+688904,Historical fiction,C45,S52,14.82
+511768,Comic/Graphic Novel,C10,S53,14.83
+34649152,Speech,C37,S64,14.84
+8,Mythology,C93,S33,14.85
+75,Fiction in verse,C21,S56,14.86
+46,Fairy tale,C87,S33,14.87
+6969,Suspense/Thriller,C27,S41,14.88
+15258872,Crime/Detective,C69,S30,14.89
+475248248,Fairy tale,C27,S36,14.9
+838701,Comic/Graphic Novel,C04,S85,14.91
+18284,Horror,C25,S38,14.92
+327662892,Fiction in verse,C50,S18,14.93
+58,Fiction narrative,C59,S36,14.94
+570382784,Comic/Graphic Novel,C62,S31,14.95
+759127,Speech,C57,S81,14.96
+66762696,Crime/Detective,C13,S02,14.97
+59179,Suspense/Thriller,C51,S82,14.98
+994,Mystery,C24,S37,14.99
+358,Suspense/Thriller,C82,S10,15.0
+327625,Suspense/Thriller,C36,S46,15.01
+6704725,Textbook,C32,S25,15.02
+89,Western,C61,S81,15.03
+221207,Speech,C44,S11,15.04
+628,Mystery,C48,S27,15.05
+977113005,Textbook,C96,S40,15.06
+66587,Historical fiction,C38,S78,15.07
+730533,Reference book,C03,S73,15.08
+20473,Folklore,C15,S93,15.09
+4154,Mystery,C46,S42,15.1
+0,Narrative nonfiction,C39,S82,15.11
+4574151,Textbook,C76,S12,15.12
+94742,Reference book,C37,S60,15.13
+8,Science fiction,C65,S12,15.14
+31870,Mythology,C05,S34,15.15
+107,Crime/Detective,C66,S80,15.16
+7390487,Short story,C27,S66,15.17
+561669,Narrative nonfiction,C74,S18,15.18
+4591,Legend,C61,S75,15.19
+685,Reference book,C62,S49,15.2
+139,Suspense/Thriller,C89,S27,15.21
+314364,Fanfiction,C75,S76,15.22
+712515,Legend,C86,S64,15.23
+62229,Mythology,C05,S85,15.24
+1094,Fiction narrative,C48,S58,15.25
+787776,Tall tale,C40,S62,15.26
+69,Textbook,C34,S22,15.27
+564,Realistic fiction,C30,S71,15.28
+51,Fable,C06,S61,15.29
+25842038,Comic/Graphic Novel,C43,S97,15.3
+3018,Fantasy,C36,S62,15.31
+2042510,Science fiction,C57,S14,15.32
+6997,Speech,C81,S36,15.33
+4775,Tall tale,C60,S89,15.34
+197551,Realistic fiction,C18,S57,15.35
+926,Legend,C56,S37,15.36
+6520,Fairy tale,C33,S81,15.37
+97627,Reference book,C26,S30,15.38
+58411052,Crime/Detective,C51,S18,15.39
+95037,Historical fiction,C26,S21,15.4
+376578920,Comic/Graphic Novel,C36,S01,15.41
+6,Short story,C70,S27,15.42
+8751,Science fiction,C41,S42,15.43
+5,Mystery,C78,S41,15.44
+94785,Suspense/Thriller,C11,S48,15.45
+960151404,Fantasy,C27,S42,15.46
+60,Reference book,C16,S16,15.47
+9,Essay,C54,S59,15.48
+8,Legend,C59,S71,15.49
+733044809,Western,C99,S40,15.5
+157091435,Fantasy,C38,S94,15.51
+311,Narrative nonfiction,C22,S50,15.52
+26667643,Mythopoeia,C25,S15,15.53
+581230900,Science fiction,C50,S12,15.54
+812851,Comic/Graphic Novel,C35,S77,15.55
+38847086,Historical fiction,C87,S58,15.56
+375283147,Reference book,C90,S04,15.57
+884,Short story,C18,S44,15.58
+8,Mythology,C61,S41,15.59
+45,Suspense/Thriller,C06,S07,15.6
+933405386,Mystery,C61,S13,15.61
+437018407,Fanfiction,C85,S24,15.62
+673058424,Reference book,C55,S03,15.63
+16,Folklore,C50,S45,15.64
+38096055,Fable,C52,S07,15.65
+68314376,Folklore,C00,S29,15.66
+66255,Classic,C04,S10,15.67
+96041,Mystery,C17,S07,15.68
+500004413,Essay,C32,S32,15.69
+6095612,Legend,C60,S30,15.7
+58113648,Historical fiction,C68,S71,15.71
+603030,Narrative nonfiction,C69,S64,15.72
+97,Legend,C14,S85,15.73
+1777,Essay,C11,S96,15.74
+98956561,Humor,C65,S56,15.75
+39,Fairy tale,C64,S01,15.76
+610763,Biography/Autobiography,C84,S14,15.77
+301,Realistic fiction,C23,S05,15.78
+531606408,Folklore,C22,S18,15.79
+57,Fiction in verse,C40,S73,15.8
+3347238,Short story,C35,S80,15.81
+81458,Fiction in verse,C09,S02,15.82
+41792,Mystery,C56,S95,15.83
+675831849,Narrative nonfiction,C75,S88,15.84
+214990191,Essay,C62,S35,15.85
+963,Reference book,C73,S94,15.86
+4,Fairy tale,C29,S55,15.87
+7579,Short story,C29,S42,15.88
+954246647,Fanfiction,C46,S13,15.89
+14,Crime/Detective,C66,S13,15.9
+96465189,Mystery,C41,S42,15.91
+6743,Short story,C76,S22,15.92
+40,Speech,C32,S48,15.93
+38830,Textbook,C84,S63,15.94
+971651,Horror,C47,S27,15.95
+833761945,Crime/Detective,C12,S20,15.96
+76350,Fairy tale,C07,S56,15.97
+32,Comic/Graphic Novel,C12,S54,15.98
+36418,Essay,C66,S72,15.99
+8457,Fiction in verse,C33,S08,16.0
+813554,Fanfiction,C07,S07,16.01
+807,Suspense/Thriller,C12,S55,16.02
+8,Fantasy,C18,S62,16.03
+724602906,Tall tale,C81,S31,16.04
+972081902,Crime/Detective,C35,S87,16.05
+53751143,Short story,C51,S57,16.06
+513743886,Essay,C05,S16,16.07
+1079381,Legend,C63,S59,16.08
+392577,Narrative nonfiction,C60,S58,16.09
+833,Legend,C89,S26,16.1
+764,Folklore,C63,S65,16.11
+147,Classic,C61,S10,16.12
+1669222,Narrative nonfiction,C10,S76,16.13
+68,Folklore,C88,S84,16.14
+6944467,Crime/Detective,C73,S66,16.15
+47,Mythopoeia,C57,S62,16.16
+4223762,Biography/Autobiography,C83,S86,16.17
+5,Tall tale,C64,S11,16.18
+9991,Realistic fiction,C95,S46,16.19
+74,Speech,C07,S85,16.2
+786782,Crime/Detective,C71,S00,16.21
+9,Metafiction,C71,S28,16.22
+853530213,Short story,C24,S34,16.23
+160,Horror,C46,S34,16.24
+66000,Biography/Autobiography,C32,S48,16.25
+9,Suspense/Thriller,C79,S42,16.26
+3843178,Fiction in verse,C50,S87,16.27
+9823,Fairy tale,C60,S34,16.28
+238672,Fantasy,C86,S62,16.29
+224241,Horror,C24,S26,16.3
+690,Legend,C90,S84,16.31
+507517430,Tall tale,C84,S53,16.32
+19433577,Fantasy,C47,S90,16.33
+1299100,Essay,C01,S78,16.34
+244545,Short story,C49,S51,16.35
+160586,Biography/Autobiography,C92,S70,16.36
+6,Biography/Autobiography,C77,S43,16.37
+478285214,Western,C46,S86,16.38
+4,Fiction narrative,C03,S71,16.39
+9,Legend,C83,S27,16.4
+9776044,Science fiction,C28,S26,16.41
+32,Fairy tale,C13,S48,16.42
+737372105,Fanfiction,C31,S88,16.43
+58,Legend,C33,S45,16.44
+3899588,Reference book,C16,S06,16.45
+55596,Horror,C51,S01,16.46
+728,Textbook,C04,S79,16.47
+505645,Science fiction,C74,S56,16.48
+427,Folklore,C46,S05,16.49
+7,Folklore,C39,S34,16.5
+282,Mystery,C07,S33,16.51
+72180,Suspense/Thriller,C36,S23,16.52
+25,Folklore,C37,S79,16.53
+3,Horror,C56,S77,16.54
+3721903,Classic,C84,S50,16.55
+70,Mystery,C28,S30,16.56
+32940,Biography/Autobiography,C21,S83,16.57
+53167,Mystery,C52,S82,16.58
+26958137,Tall tale,C95,S24,16.59
+23240,Fanfiction,C38,S27,16.6
+900,Textbook,C16,S08,16.61
+140819,Speech,C54,S38,16.62
+27901828,Biography/Autobiography,C54,S31,16.63
+92,Fable,C36,S56,16.64
+2787843,Fantasy,C32,S01,16.65
+38441,Western,C72,S23,16.66
+199902803,Classic,C52,S08,16.67
+547678,Reference book,C84,S42,16.68
+686041,Western,C13,S73,16.69
+95256,Speech,C58,S64,16.7
+90599,Biography/Autobiography,C35,S79,16.71
+340097461,Mythopoeia,C84,S28,16.72
+1135,Suspense/Thriller,C84,S64,16.73
+10259884,Horror,C07,S11,16.74
+40620,Fiction narrative,C60,S45,16.75
+678587,Fiction narrative,C68,S71,16.76
+4243697,Realistic fiction,C17,S82,16.77
+80287,Realistic fiction,C38,S24,16.78
+813933,Essay,C62,S74,16.79
+2,Science fiction,C80,S37,16.8
+464,Western,C06,S00,16.81
+299353733,Reference book,C39,S16,16.82
+41,Fantasy,C37,S78,16.83
+9,Comic/Graphic Novel,C20,S37,16.84
+0,Narrative nonfiction,C61,S24,16.85
+5761011,Mythology,C13,S46,16.86
+8677985,Textbook,C10,S36,16.87
+275176618,Historical fiction,C03,S20,16.88
+9154731,Essay,C45,S36,16.89
+40131889,Mystery,C67,S80,16.9
+419621234,Essay,C96,S65,16.91
+326065,Fantasy,C82,S12,16.92
+316633236,Horror,C10,S08,16.93
+955384458,Fiction narrative,C21,S87,16.94
+10,Science fiction,C57,S07,16.95
+9276,Speech,C28,S71,16.96
+547468186,Fiction in verse,C68,S23,16.97
+8,Science fiction,C08,S75,16.98
+49601,Metafiction,C75,S01,16.99
+10171,Suspense/Thriller,C16,S78,17.0
+928,Metafiction,C10,S57,17.01
+96959,Short story,C42,S89,17.02
+24,Fiction narrative,C13,S74,17.03
+17,Western,C56,S05,17.04
+894,Western,C24,S86,17.05
+9,Biography/Autobiography,C26,S88,17.06
+168920104,Fiction in verse,C26,S29,17.07
+9,Legend,C57,S22,17.08
+237346,Fiction narrative,C24,S64,17.09
+829,Crime/Detective,C03,S12,17.1
+98071155,Fiction in verse,C05,S31,17.11
+98078135,Western,C41,S40,17.12
+637,Comic/Graphic Novel,C26,S77,17.13
+47440841,Comic/Graphic Novel,C54,S98,17.14
+4332,Speech,C42,S13,17.15
+0,Comic/Graphic Novel,C86,S22,17.16
+814,Western,C68,S25,17.17
+710107,Metafiction,C37,S95,17.18
+8843,Western,C55,S11,17.19
+8661298,Textbook,C82,S22,17.2
+10328,Mythology,C30,S23,17.21
+5,Western,C73,S31,17.22
+464336,Mystery,C04,S48,17.23
+73,Suspense/Thriller,C49,S80,17.24
+711256,Science fiction,C76,S38,17.25
+619516242,Fiction in verse,C24,S25,17.26
+68141073,Fantasy,C53,S88,17.27
+560874947,Essay,C84,S52,17.28
+9966109,Legend,C73,S72,17.29
+64,Science fiction,C58,S44,17.3
+2682685,Fable,C13,S80,17.31
+78966052,Comic/Graphic Novel,C30,S76,17.32
+40835529,Fiction narrative,C41,S42,17.33
+97624070,Textbook,C46,S11,17.34
+143,Comic/Graphic Novel,C11,S37,17.35
+89330,Horror,C88,S18,17.36
+7889,Fiction narrative,C93,S22,17.37
+595903,Fiction in verse,C00,S76,17.38
+7340173,Historical fiction,C00,S64,17.39
+68,Comic/Graphic Novel,C98,S12,17.4
+20,Fiction narrative,C23,S30,17.41
+73,Western,C34,S07,17.42
+77,Narrative nonfiction,C85,S28,17.43
+92526915,Horror,C72,S42,17.44
+34724346,Horror,C01,S10,17.45
+3333,Tall tale,C71,S64,17.46
+0,Suspense/Thriller,C37,S40,17.47
+27025488,Fable,C16,S50,17.48
+300391,Folklore,C32,S25,17.49
+138,Mythopoeia,C65,S55,17.5
+86,Metafiction,C96,S92,17.51
+88814,Fairy tale,C43,S02,17.52
+23238086,Fiction in verse,C53,S44,17.53
+27,Short story,C82,S61,17.54
+600033,Speech,C46,S24,17.55
+905496,Legend,C51,S55,17.56
+6899,Classic,C18,S68,17.57
+40,Fanfiction,C45,S03,17.58
+4857496,Folklore,C74,S17,17.59
+3290296,Suspense/Thriller,C10,S59,17.6
+57731438,Fantasy,C23,S24,17.61
+48585020,Western,C51,S73,17.62
+5157996,Legend,C66,S44,17.63
+5108,Realistic fiction,C70,S89,17.64
+765,Biography/Autobiography,C33,S68,17.65
+0,Fiction narrative,C43,S26,17.66
+6,Fiction narrative,C60,S04,17.67
+9,Western,C05,S22,17.68
+660305,Comic/Graphic Novel,C35,S89,17.69
+325771,Reference book,C24,S16,17.7
+4073,Fiction narrative,C43,S60,17.71
+933742,Crime/Detective,C00,S08,17.72
+37,Science fiction,C89,S54,17.73
+50,Reference book,C43,S20,17.74
+873,Humor,C58,S63,17.75
+4,Metafiction,C36,S18,17.76
+3768894,Reference book,C26,S07,17.77
+351,Humor,C54,S60,17.78
+1069,Fairy tale,C67,S34,17.79
+5260247,Fanfiction,C77,S14,17.8
+31358745,Speech,C59,S13,17.81
+31957,Science fiction,C33,S14,17.82
+833,Legend,C69,S61,17.83
+3837396,Folklore,C35,S82,17.84
+949359558,Metafiction,C28,S72,17.85
+859929848,Realistic fiction,C83,S84,17.86
+1236,Essay,C18,S90,17.87
+2,Humor,C75,S87,17.88
+73448770,Reference book,C88,S03,17.89
+94,Fiction narrative,C62,S24,17.9
+34563790,Fairy tale,C70,S23,17.91
+823498,Fable,C89,S20,17.92
+9,Horror,C93,S31,17.93
+2,Essay,C04,S75,17.94
+751284,Mythopoeia,C56,S03,17.95
+3,Mystery,C83,S63,17.97
+914,Western,C07,S97,17.98
+8799686,Horror,C01,S32,17.99
+9732127,Fantasy,C67,S43,18.0
+256,Fairy tale,C43,S98,18.01
+282367,Folklore,C01,S26,18.02
+73197516,Suspense/Thriller,C25,S04,18.03
+91,Fairy tale,C25,S58,18.04
+9305652,Mystery,C70,S37,18.05
+3193804,Fantasy,C33,S86,18.06
+7,Fanfiction,C73,S43,18.07
+98,Suspense/Thriller,C65,S85,18.08
+2316718,Mythology,C80,S53,18.09
+89,Textbook,C87,S03,18.1
+8078460,Historical fiction,C48,S53,18.11
+5872,Humor,C88,S77,18.12
+68,Fairy tale,C65,S07,18.13
+563,Fanfiction,C20,S18,18.14
+223,Horror,C57,S58,18.15
+22,Tall tale,C76,S92,18.16
+30056,Fanfiction,C24,S71,18.17
+939510732,Speech,C74,S55,18.18
+94324105,Metafiction,C36,S04,18.19
+18,Horror,C82,S87,18.2
+3606,Science fiction,C91,S71,18.21
+3370,Fairy tale,C30,S14,18.22
+2817,Tall tale,C87,S43,18.23
+73802450,Fiction in verse,C62,S78,18.24
+821,Textbook,C78,S07,18.25
+3894,Historical fiction,C09,S54,18.26
+9,Fiction narrative,C87,S61,18.27
+787590902,Mystery,C54,S08,18.28
+38949,Biography/Autobiography,C52,S94,18.29
+517062,Fantasy,C69,S80,18.3
+29247,Fiction in verse,C03,S57,18.31
+7916191,Fiction narrative,C70,S36,18.33
+84,Folklore,C85,S14,18.34
+48,Fairy tale,C89,S82,18.35
+134,Fantasy,C65,S22,18.36
+868626,Tall tale,C82,S45,18.37
+84329421,Classic,C36,S68,18.38
+8,Comic/Graphic Novel,C44,S10,18.39
+827276,Folklore,C94,S81,18.4
+3322,Mythopoeia,C21,S42,18.41
+111302,Fantasy,C27,S05,18.42
+93246,Horror,C16,S84,18.43
+4720,Western,C12,S47,18.44
+48,Short story,C13,S31,18.45
+812787025,Reference book,C42,S45,18.46
+6212541,Short story,C48,S46,18.47
+260296666,Suspense/Thriller,C70,S63,18.48
+20090614,Metafiction,C88,S37,18.49
+38460559,Folklore,C26,S26,18.5
+4,Historical fiction,C63,S66,18.51
+1146878,Biography/Autobiography,C28,S27,18.52
+36,Mythology,C24,S72,18.53
+5615779,Realistic fiction,C42,S53,18.54
+27382499,Mythology,C63,S75,18.55
+691,Fantasy,C05,S72,18.56
+90305,Suspense/Thriller,C67,S81,18.57
+6802199,Short story,C42,S03,18.58
+97,Fiction narrative,C76,S25,18.59
+1793997,Fanfiction,C26,S22,18.6
+5550460,Western,C83,S36,18.61
+431659376,Speech,C13,S78,18.62
+2831,Crime/Detective,C71,S34,18.63
+508,Reference book,C43,S05,18.64
+8803,Essay,C44,S27,18.65
+4,Western,C80,S84,18.67
+7599,Reference book,C72,S15,18.68
+82776981,Reference book,C57,S54,18.69
+235988,Historical fiction,C27,S52,18.7
+4406840,Short story,C72,S26,18.71
+67633,Metafiction,C02,S54,18.72
+3056,Science fiction,C01,S97,18.73
+4,Humor,C50,S35,18.74
+662093485,Essay,C54,S67,18.75
+86391,Fairy tale,C11,S20,18.76
+838644679,Crime/Detective,C42,S67,18.77
+3,Horror,C00,S10,18.78
+2,Textbook,C40,S69,18.79
+56,Comic/Graphic Novel,C58,S13,18.8
+453199,Suspense/Thriller,C37,S11,18.81
+2461,Narrative nonfiction,C53,S73,18.82
+575394163,Fanfiction,C22,S54,18.83
+616,Mythology,C36,S58,18.84
+51173,Short story,C08,S24,18.85
+1587673,Suspense/Thriller,C16,S70,18.86
+4044953,Science fiction,C54,S38,18.87
+820,Metafiction,C99,S38,18.88
+4,Comic/Graphic Novel,C67,S85,18.89
+433,Comic/Graphic Novel,C78,S53,18.9
+119,Legend,C65,S73,18.91
+56,Fiction in verse,C57,S75,18.92
+36308434,Narrative nonfiction,C56,S39,18.93
+1035764,Humor,C81,S82,18.94
+5125,Textbook,C88,S34,18.95
+13220915,Textbook,C03,S16,18.96
+5654195,Fiction narrative,C37,S43,18.97
+3559197,Legend,C41,S31,18.98
+25201015,Short story,C42,S96,18.99
+974,Fiction in verse,C27,S74,19.0
+78037,Crime/Detective,C16,S06,19.01
+42,Humor,C76,S24,19.02
+38334002,Fantasy,C31,S81,19.03
+88856258,Crime/Detective,C55,S38,19.04
+24,Fairy tale,C79,S10,19.05
+68379,Short story,C51,S45,19.06
+37,Humor,C53,S81,19.07
+24654,Short story,C60,S24,19.09
+2080327,Fable,C77,S33,19.11
+673176,Reference book,C04,S39,19.12
+694392,Tall tale,C42,S33,19.13
+2281087,Fairy tale,C66,S30,19.14
+843110665,Narrative nonfiction,C41,S18,19.15
+519,Humor,C40,S27,19.16
+183760290,Fantasy,C63,S04,19.17
+464709096,Realistic fiction,C03,S12,19.18
+9541,Western,C67,S11,19.19
+90201904,Crime/Detective,C47,S54,19.2
+82880,Mythopoeia,C08,S85,19.21
+6,Narrative nonfiction,C55,S74,19.22
+16964379,Essay,C68,S56,19.23
+9643681,Humor,C38,S17,19.24
+96926794,Crime/Detective,C58,S83,19.25
+7799,Mythology,C24,S71,19.26
+68,Short story,C49,S07,19.27
+54065701,Fable,C07,S45,19.28
+83,Science fiction,C72,S71,19.29
+2217705,Narrative nonfiction,C12,S01,19.3
+4,Narrative nonfiction,C73,S71,19.31
+15,Crime/Detective,C97,S11,19.32
+55824,Suspense/Thriller,C83,S31,19.33
+6,Essay,C97,S68,19.34
+53922,Comic/Graphic Novel,C53,S51,19.35
+46800,Speech,C34,S23,19.36
+33162,Comic/Graphic Novel,C88,S56,19.37
+3821477,Fable,C60,S54,19.38
+1528,Narrative nonfiction,C19,S98,19.39
+9956742,Legend,C80,S40,19.4
+5814,Folklore,C62,S44,19.41
+394740094,Fanfiction,C22,S68,19.42
+5119106,Comic/Graphic Novel,C08,S32,19.43
+39650278,Fantasy,C81,S50,19.44
+8848,Historical fiction,C29,S53,19.45
+0,Mythopoeia,C10,S63,19.46
+228,Fiction in verse,C75,S50,19.47
+754633,Speech,C51,S32,19.48
+33910,Folklore,C21,S13,19.49
+708331033,Mythology,C98,S61,19.5
+34250,Reference book,C38,S09,19.51
+91878873,Comic/Graphic Novel,C72,S13,19.52
+2,Narrative nonfiction,C34,S61,19.53
+5802,Narrative nonfiction,C91,S18,19.54
+40323780,Fable,C22,S45,19.55
+82801379,Mythopoeia,C14,S06,19.56
+82,Fable,C95,S67,19.57
+955,Realistic fiction,C54,S87,19.58
+24,Mystery,C07,S82,19.59
+426442,Folklore,C03,S66,19.6
+515,Mythopoeia,C45,S40,19.62
+8,Fantasy,C54,S08,19.63
+3681,Legend,C45,S73,19.64
+4146428,Humor,C65,S49,19.65
+666,Historical fiction,C87,S90,19.66
+154161,Metafiction,C73,S64,19.67
+300702366,Mystery,C37,S64,19.68
+72356057,Fable,C31,S21,19.69
+3627966,Metafiction,C25,S70,19.7
+977,Fiction in verse,C98,S70,19.71
+614308079,Realistic fiction,C64,S17,19.72
+4225,Mystery,C42,S00,19.73
+793487,Fable,C65,S60,19.74
+57729582,Realistic fiction,C80,S16,19.75
+13,Suspense/Thriller,C43,S90,19.76
+883691833,Mythology,C18,S24,19.78
+76043095,Mystery,C21,S82,19.79
+49398711,Short story,C32,S55,19.8
+25733,Fiction in verse,C57,S59,19.81
+0,Comic/Graphic Novel,C83,S41,19.82
+670864,Folklore,C66,S75,19.83
+897,Reference book,C74,S47,19.84
+88414,Realistic fiction,C13,S04,19.85
+376,Metafiction,C48,S32,19.86
+352,Legend,C70,S56,19.87
